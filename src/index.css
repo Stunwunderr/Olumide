@@ -6,9 +6,9 @@
     url("./assets/fonts/Agustina.woff") format("woff");
 }
 @font-face {
-  font-family: "Montserrat";
-  src: local("Montserrat"),
-    url("./assets/fonts/Montserrat-Regular.ttf") format("woff");
+  font-family: "Nanum Gothic";
+  src: local("Nanum Gothic"),
+    url("./assets/fonts/NanumGothic-Regular.ttf") format("woff");
 }
 @font-face {
   font-family: "Google Sans Bold";
@@ -54,7 +54,7 @@ body {
 }
 body {
   margin: 0;
-  font: 19px / 23px Montserrat, "Montserrat", sans-serif;
+  font: 19px / 23px Nanum Gothic, "Nanum Gothic", sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
