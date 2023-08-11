@@ -12,4 +12,4 @@ export const lightTheme = {
   orange: "#ffa500",
 };
 
-export const chosenTheme = lightTheme;
+export const chosenTheme = blackTheme;
