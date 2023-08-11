@@ -89,13 +89,7 @@ const skills = {
         "⚡ Familiar with Text-to-speech encoding/decoding (speech synthesis) and Voice Cloning for robust data analysis applications.",
       ],
       softwareSkills: [
-        {
-          skillName: "Tensorflow",
-          fontAwesomeClassname: "logos-tensorflow",
-          style: {
-            backgroundColor: "transparent",
-          },
-        },
+        
         {
           skillName: "PyTorch",
           fontAwesomeClassname: "logos-pytorch",
@@ -111,7 +105,19 @@ const skills = {
             color: "#3776AB",
           },
         },
-        {
+        
+      ],
+    },
+    {
+      title: "Problem Solving",
+      fileName: "FullStackImg",
+      skills: [
+        "⚡ Proficient in identifying and dissecting complex data challenges, utilizing statistical and machine learning techniques for insights.",
+        "⚡ Experienced in cleaning and transforming data, handling missing values, and optimizing features for accurate analysis. ",
+        "⚡ Able to convey findings effectively, using data visualization tools to bridge the gap between technical and non-technical stakeholders.",
+      ],
+      softwareSkills: [
+       {
           skillName: "Pandas",
           fontAwesomeClassname: "simple-icons:pandas",
           style: {
@@ -125,25 +131,8 @@ const skills = {
           style: {
             backgroundColor: "transparent",
           },
-        },
-        {
-          skillName: "Tableau",
-          fontAwesomeClassname: "logos-tableau",
-          style: {
-            backgroundColor: "transparent",
-          },
-        },
+        },      
       ],
-    },
-    {
-      title: "Problem Solving",
-      fileName: "FullStackImg",
-      skills: [
-        "⚡ Proficient in identifying and dissecting complex data challenges, utilizing statistical and machine learning techniques for insights.",
-        "⚡ Experienced in cleaning and transforming data, handling missing values, and optimizing features for accurate analysis. ",
-        "⚡ Able to convey findings effectively, using data visualization tools to bridge the gap between technical and non-technical stakeholders.",
-      ],
-      
     },
     {
       title: "Problem Solving",
@@ -154,7 +143,23 @@ const skills = {
         "⚡ Creating the flow of application functionalities to optimize user experience",
         "⚡ Applying latest Design principles and experienced in product wireframing",
       ],
-      
+      softwareSkills: [
+        {
+          skillName: "Tensorflow",
+          fontAwesomeClassname: "logos-tensorflow",
+          style: {
+            backgroundColor: "transparent",
+          },
+        },
+        
+        {
+          skillName: "Tableau",
+          fontAwesomeClassname: "logos-tableau",
+          style: {
+            backgroundColor: "transparent",
+          },
+        },
+      ],
     },
   ],
 };
