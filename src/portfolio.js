@@ -4,9 +4,9 @@ const settings = {
 
 //SEO Related settings
 const seo = {
-  title: "Rohan Kokkula | Portfolio",
+  title: "Omobukola Olumide | Portfolio",
   description:
-    "A Data Science practitioner who thrives to leverage startups with AI based solutions with a blend of UI/UX",
+    "A data geek with a startup obsession. I'm all about crunching numbers, finding patterns, and making data dance to the startup beat. Let's rock that data!",
   og: {
     title: "Rohan Portfolio",
     type: "website",
@@ -16,9 +16,9 @@ const seo = {
 
 //Home Page
 const greeting = {
-  title: "Namaste!",
-  sub: "Rohan Kokkula",
-  logo_name: "Rohan Kokkula",
+  title: "Welcome!",
+  sub: "Omobukola Olumide",
+  logo_name: "Omobukola Olumide",
   resumeLink: "",
 };
 
