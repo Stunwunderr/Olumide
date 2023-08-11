@@ -1,4 +1,4 @@
-import React, {useRef,useEffect,Component } from "react";
+import React, {useRef, useEffect } from "react";
 import lottie from 'lottie-web';
 
  export default function FullStackImg(){
