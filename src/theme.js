@@ -1,8 +1,8 @@
 export const blackTheme = {
   body: "#000000",
   text: "#ffffff",
-  blue: "#1179f7",
-  orange: "#ffa500",
+  blue: "#A9A9A9",
+  orange: "#003366",
 };
 
 export const lightTheme = {
