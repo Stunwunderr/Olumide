@@ -109,12 +109,12 @@ const skills = {
       ],
     },
     {
-      title: "Problem Solving",
+      title: "Technical Proficiency",
       fileName: "FullStackImg",
       skills: [
-        "⚡ Proficient in identifying and dissecting complex data challenges, utilizing statistical and machine learning techniques for insights.",
-        "⚡ Experienced in cleaning and transforming data, handling missing values, and optimizing features for accurate analysis. ",
-        "⚡ Able to convey findings effectively, using data visualization tools to bridge the gap between technical and non-technical stakeholders.",
+        "⚡ Proficient in preparing raw data for analysis by identifying and addressing missing values, outliers, and inconsistencies, ensuring the data is accurate and reliable.",
+        "⚡ Skilled in applying statistical techniques, hypothesis testing, and regression analysis to derive meaningful insights and identify patterns within the data. ",
+        "⚡ Experienced in creating effective visual representations of data using tools like Tableau, matplotlib, or ggplot, enabling clear communication of findings to both technical and non-technical audiences.",
       ],
       softwareSkills: [
        {
@@ -138,10 +138,9 @@ const skills = {
       title: "Problem Solving",
       fileName: "DesignImg",
       skills: [
-        "⚡ Designing highly attractive user interfaces for mobile and web applications",
-        "⚡ Customizing logo designs and building logos from scratch",
-        "⚡ Creating the flow of application functionalities to optimize user experience",
-        "⚡ Applying latest Design principles and experienced in product wireframing",
+        "⚡ Proficient in identifying and dissecting complex data challenges, utilizing statistical and machine learning techniques for insights.",
+        "⚡ Experienced in cleaning and transforming data, handling missing values, and optimizing features for accurate analysis. ",
+        "⚡ Able to convey findings effectively, using data visualization tools to bridge the gap between technical and non-technical stakeholders.",
       ],
       softwareSkills: [
         {
