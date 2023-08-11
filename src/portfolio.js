@@ -136,12 +136,12 @@ const skills = {
       ],
     },
     {
-      title: "Web Development",
+      title: "Problem Solving",
       fileName: "FullStackImg",
       skills: [
-        "⚡ Building responsive websites using HTML5, CSS3, BootStrap5, ReactJS & NodeJS",
-        "⚡ Creating application backend in Node, Flask & Streamlit",
-        "⚡ Having experience in Domain & Hosting using Netlify, Vercel, Heroku & Hostinger",
+        "⚡ Proficient in identifying and dissecting complex data challenges, utilizing statistical and machine learning techniques for insights.",
+        "⚡ Experienced in cleaning and transforming data, handling missing values, and optimizing features for accurate analysis. ",
+        "⚡ Able to convey findings effectively, using data visualization tools to bridge the gap between technical and non-technical stakeholders.",
       ],
       softwareSkills: [
         {
