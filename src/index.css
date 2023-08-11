@@ -51,6 +51,8 @@ code {
 html,
 body {
   scroll-behavior: smooth;
+  -webkit-tap-highlight-color: transparent !important;
+  outline: none !important;
 }
 body {
   margin: 0;
