@@ -53,7 +53,7 @@ export default function Greeting(props) {
                   with a startup obsession. I'm all about {" "}
                   <mark data-entity="verb">crunching numbers, finding patterns, and making data dance</mark> to the startup beat.
                     {" "}
-                  <mark data-entity="energy">Let's rock that data! 📈💡</mark> 
+                  <mark data-entity="energy">Let's rock that data!</mark> 
                 </div>
               </span>
               <CompetitiveSites logos={competitiveSites.competitiveSites} />
