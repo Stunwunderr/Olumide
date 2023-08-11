@@ -10,7 +10,7 @@ const seo = {
   og: {
     title: "Rohan Portfolio",
     type: "website",
-    url: "http://rohankokkula.ml/",
+    url: "https://olumideomobukola.vercel.app",
   },
 };
 
@@ -31,7 +31,7 @@ const competitiveSites = {
       style: {
         color: "white",
       },
-      profileLink: "https://github.com/rohankokkula",
+      profileLink: "https://github.com/",
     },
     {
       siteName: "HackerRank",
@@ -39,7 +39,7 @@ const competitiveSites = {
       style: {
         color: "#2EC866",
       },
-      profileLink: "https://www.hackerrank.com/rohankokkula01",
+      profileLink: "https://www.hackerrank.com/",
     },
     {
       siteName: "Kaggle",
@@ -47,7 +47,7 @@ const competitiveSites = {
       style: {
         color: "#20BEFF",
       },
-      profileLink: "https://www.kaggle.com/rohan0301",
+      profileLink: "https://www.kaggle.com/",
     },
     {
       siteName: "Hackerearth",
@@ -55,7 +55,7 @@ const competitiveSites = {
       style: {
         color: "#323754",
       },
-      profileLink: "https://www.hackerearth.com/@rohankokkula",
+      profileLink: "https://www.hackerearth.com/",
     },
     {
       siteName: "LinkedIn",
@@ -63,7 +63,7 @@ const competitiveSites = {
       style: {
         color: "#0077b5",
       },
-      profileLink: "https://www.linkedin.com/in/rohankokkula/",
+      profileLink: "https://www.linkedin.com/in/",
     },
     {
       siteName: "HashNode",
@@ -83,10 +83,10 @@ const skills = {
       title: "Data Science & Analysis",
       fileName: "DataScienceImg",
       skills: [
-        "⚡ Developing highly scalable production-ready models for various deep learning and statistical use cases",
-        "⚡ Experience in working with Computer Vision using OpenCV and NLP projects(T5-Transformer & OpenAI)",
-        "⚡ Having good hands-on with Data Cleaning, processing & Analysing using Pandas, Tableau & PowerBI",
-        "⚡ Experience with Text-to-speech encoders/decoders (speech synthesis) & Voice Cloning",
+        "⚡ Proficient in crafting scalable, production-ready analytical solutions for diverse data analysis and statistical scenarios", 
+        "⚡ Skilled in utilizing Computer Vision through OpenCV and executing NLP initiatives, including T5-Transformer and OpenAI applications",
+        "⚡ Extensive experience in proficiently handling Data Cleaning, processing, and comprehensive analysis using Pandas, Tableau, and PowerBI",
+        "⚡ Familiar with Text-to-speech encoding/decoding (speech synthesis) and Voice Cloning for robust data analysis applications.",
       ],
       softwareSkills: [
         {
