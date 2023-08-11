@@ -178,8 +178,8 @@
 }
 
 [data-entity][data-entity="noun"] {
-  background: rgba(166, 226, 45, 0.2);
-  border-color: rgb(166, 226, 45);
+  background: rgba(255, 255, 0, 0.2);
+  border-color: rgba(255, 255, 0);
   color: rgb(255, 255, 255);
 }
 [data-entity][data-entity="noun"]::after {
@@ -188,43 +188,43 @@
 }
 
 [data-entity][data-entity="person"] {
-  background: rgba(45, 226, 217, 0);
-  border-color: rgb(45, 226, 141);
+  background: rgba(255, 0, 0, 0.2); 
+  border-color: rgba(255, 0, 0); 
   color: rgb(255, 255, 255);
 }
 
 [data-entity][data-entity="person"]::after {
-  background: rgb(45, 226, 141);
+  background: rgba(255, 0, 0); 
   color: rgb(0, 0, 0);
 }
 
 [data-entity][data-entity="skill"] {
-  background: rgb(187, 47, 117, 0.2);
-  border-color: rgb(187, 47, 117);
+  background: rgba(255, 165, 0, 0.2); 
+  border-color: rgba(255, 165, 0);
   color: rgb(255, 255, 255);
 }
 
 [data-entity][data-entity="skill"]::after {
-  background: rgb(187, 47, 117);
+  background: rgba(255, 165, 0);
 }
 
 [data-entity][data-entity="freelance"] {
-  background: rgb(187, 161, 47, 0.2);
-  border-color: rgb(187, 161, 47);
+  background: rgba(0, 0, 255, 0.2); 
+  border-color: rgba(0, 0, 255); 
   color: rgb(255, 255, 255);
 }
 
 [data-entity][data-entity="freelance"]::after {
-  background: rgb(187, 161, 47);
+  background: rgba(0, 0, 255); 
   color: rgb(0, 0, 0);
 }
 
 [data-entity][data-entity="verb"] {
-  background: rgba(47, 187, 171, 0.2);
-  border-color: rgb(47, 187, 171);
+  background: rgba(0, 255, 0, 0.2); 
+  border-color: rgba(0, 255, 0); 
   color: rgb(255, 255, 255);
 }
 
 [data-entity][data-entity="verb"]::after {
-  background: rgb(21, 124, 112);
+  background: rgba(0, 255, 0); 
 }
