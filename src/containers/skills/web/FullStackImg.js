@@ -9,7 +9,7 @@ import lottie from 'lottie-web';
          renderer: 'svg',
          loop: true,
          autoplay: true,
-         animationData: require('./htmldev.json')
+         animationData: require('./technical.json')
        })
      }, [])
      return (
