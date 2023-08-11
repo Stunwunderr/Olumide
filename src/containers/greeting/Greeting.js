@@ -49,12 +49,11 @@ export default function Greeting(props) {
                 className="greeting-text-span subTitle"
                 style={{ color: theme.text }}>
                 <div className="entities">
-                  A <mark data-entity="noun">Data Science practitioner</mark>{" "}
-                  who thrives to{" "}
-                  <mark data-entity="verb">leverage Startups</mark> using
-                  AI-based solutions along with{" "}
-                  <mark data-entity="skill">Web Development</mark> and a blend
-                  of <mark data-entity="freelance">UI/UX Designing</mark>
+                  A <mark data-entity="noun">Data Geek</mark>{" "}
+                  with a startup obsession. I'm all about {" "}
+                  <mark data-entity="verb">crunching numbers, finding patterns, and making data dance</mark> to the startup beat.
+                    {" "}
+                  <mark data-entity="energy">Let's rock that data! 📈💡</mark> 
                 </div>
               </span>
               <CompetitiveSites logos={competitiveSites.competitiveSites} />
@@ -76,3 +75,4 @@ export default function Greeting(props) {
     </Fade>
   );
 }
+ 
