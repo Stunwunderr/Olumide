@@ -1,4 +1,3 @@
-import React, {Component } from "react";
 import React, {useRef,useEffect,Component } from "react";
 import lottie from 'lottie-web';
 
