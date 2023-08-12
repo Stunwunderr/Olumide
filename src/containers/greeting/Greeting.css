@@ -228,3 +228,9 @@
 [data-entity][data-entity="verb"]::after {
   background: rgba(0, 255, 0); 
 }
+.container img {
+  filter: grayscale(100%);
+}
+. container img:hover {
+  filter: none;
+}
