@@ -1,7 +1,7 @@
 //import lottie from 'lottie-web';
 //import React, {useRef,useEffect } from "react";
  import { Component } from "react";
- import banner from "/olumide.jpg"
+ import banner from "./olumide.jpg"
 
 //for animated svgs use json file
 // export default function BannerImg(){
