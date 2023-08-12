@@ -381,13 +381,15 @@ const resumeleft = {
         ],
       },
       {
-        title: "Machine Learning Intern",
-        subtitle: "Listnr",
+        title: "Data Analyst",
+        subtitle: "Freelance",
         date: "April 2021 - June 2022",
         content: [
-          "My role at Listnr included a lot of research work about Audio Encoders and Vocoders and Speech Synthesis in general.",
-          "Worked on some SOTA Inference TTS Models such as TacoTron2, FastSpeech2, and Wavenet.",
-          "Also had hands-on with real-time voice cloning algorithm.",
+          "Gathered and organized relevant data from various sources, ensuring accuracy and consistency to create a solid foundation for analysis.",
+          "Applied statistical techniques to identify trends, patterns, and insights within the data, providing valuable information for decision-making.",
+          "Created meaningful and informative visualizations, such as charts, graphs, and dashboards, to effectively communicate findings to clients.",
+          "Developed predictive models using machine learning techniques to forecast future trends, enabling clients to make proactive business decisions.",
+          "Prepared comprehensive and actionable reports, summarizing key findings, recommendations, and actionable insights to help clients leverage data for strategic purposes.",          
         ],
       },
         
