@@ -127,7 +127,7 @@
 .resume .resume-item .resume-title {
   line-height: 18px;
   font-size: 0.9em;
-  background: #9b59b6;
+  background: #ffa500;
   padding: 8px 15px;
   display: inline-block;
   font-weight: 600;
@@ -159,6 +159,6 @@
   border-radius: 50px;
   left: -9px;
   top: 0;
-  background: #1179f7;
-  border: 2px solid #1179f7;
+  background: #ffa500;
+  border: 2px solid #ffa500;
 }
