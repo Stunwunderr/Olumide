@@ -642,6 +642,7 @@ const socialMediaLinks = [
 export {
   settings,
   seo,
+  developer,
   greeting,
   socialMediaLinks,
   skills,
