@@ -235,7 +235,7 @@
 .container img {
   filter: grayscale(100%);
   max-width: 100%;
-  border-radius: 3rem;
+  border-radius: 2rem;
   height: auto;
 }
 .container img:hover {
