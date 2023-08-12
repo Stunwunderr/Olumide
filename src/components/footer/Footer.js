@@ -9,7 +9,7 @@ export default function Footer(props) {
     <div className="footer-div">
       <Fade>
         <a href={developer.link} className="footer-text" style={{ color: props.theme.text }}>
-          Made by {developer.sub}
+          Developed by {developer.sub}
         </a>
         {/* <ToggleSwitch theme={props.theme} onToggle={props.onToggle}/> */}
       </Fade>
