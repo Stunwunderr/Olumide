@@ -126,6 +126,13 @@
 }
 
 @media (max-width: 1380px) {
+  .address-heading-div {
+    flex-direction: column;
+    margin-top: 60px;
+    }
+  .contact-heading-div {
+    flex-direction: column;
+    }
   .contact-heading-text {
     font-size: 50px;
     margin-top: 60px;
