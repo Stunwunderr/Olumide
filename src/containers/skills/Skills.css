@@ -20,7 +20,7 @@
 }
 
 .skills-main-div > * {
-  flex: 1;
+  flex-direction: column;
   margin-bottom: 30px;
 }
 
