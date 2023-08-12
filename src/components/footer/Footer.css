@@ -1,10 +1,12 @@
 .footer-div a {
-  text-align: center;
   /* color: #868e96; */
   font-weight: bold;
   font-family: "Google Sans Regular";
 }
 
 .footer-div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
   margin-top: 2rem;
 }
