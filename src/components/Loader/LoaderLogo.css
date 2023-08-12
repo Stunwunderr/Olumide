@@ -3,7 +3,7 @@
   width: 440;
 }
 
-@media (max-width: 767px) {
+@media (max-width: 1300px) {
   #logo {
     position: absolute;
     top: 50%;
