@@ -8,7 +8,7 @@ const seo = {
   description:
     "A data geek with a startup obsession. I'm all about crunching numbers, finding patterns, and making data dance to the startup beat. Let's rock that data!",
   og: {
-    title: "Rohan Portfolio",
+    title: "Omobukola Olumide | Portfolio",
     type: "website",
     url: "https://olumideomobukola.vercel.app",
   },
@@ -416,7 +416,7 @@ const resumeleft = {
 const resumeright = {
   right: [
     {
-      title: ["Education Journey"],
+      title: ["Educational Journey"],
       data: [
         {
           title: "Bachelor of Science in Civil and Environmental Engineering",
@@ -425,10 +425,10 @@ const resumeright = {
           content: ["Relevant Coursework: Statistics for Engineers, Numerical Analysis, Transportation Engineering and Traffic Analysis, Environmental Engineering"],
         },
         {
-          title: "Higher Secondary Certificate [HSC]",
-          subtitle: "Dr. Antonio Da Silva Technical Jr. College, Mumbai",
-          date: "2014 - 2016",
-          content: ["Precentage: 80%"],
+          title: "West African Senior School Certificate (WASSCE) ",
+          subtitle: "Timi Comprehensive College, Lagos",
+          date: "2010 - 2016",
+          content: ["Grade: A"],
         },
       ],
     },
