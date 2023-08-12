@@ -165,7 +165,7 @@ const skills = {
 
 // Projects Page
 const projectsHeader = {
-  title: "Projects",
+  title: "My Portfolio",
   description:
   "Explore my data analysis projects that showcase insights, visualizations, and actionable recommendations across diverse domains.",
 };
