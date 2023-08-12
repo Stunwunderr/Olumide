@@ -10,7 +10,7 @@ export default function Resume() {
         <Row className="resume">
           <div className="heading-div">
             <div>
-              <Col md={6} className="resume-left">
+              <Col md={12} className="resume-left">
                 {resumeleft.left.title.map((head) => {
                   return (
                     <>
@@ -31,7 +31,7 @@ export default function Resume() {
               </Col>
             </div>
             <div>
-              <Col md={6} className="resume-right">
+              <Col md={12} className="resume-right">
                 {resumeright.right.map((head) => {
                   return (
                     <>
