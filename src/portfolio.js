@@ -13,7 +13,11 @@ const seo = {
     url: "https://olumideomobukola.vercel.app",
   },
 };
-
+//Web developer
+const developer = {
+  sub: "Codewunder",
+  link: "https://codewunder.vercel.app",
+}
 //Home Page
 const greeting = {
   title: "Welcome!",
