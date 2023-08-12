@@ -366,7 +366,7 @@ const projectcards = {
 
 const resumeleft = {
   left: {
-    title: ["Experience"],
+    title: ["Professional Experience"],
     data: [
       {
         title: "Data Analyst",
@@ -383,7 +383,7 @@ const resumeleft = {
       {
         title: "Machine Learning Intern",
         subtitle: "Listnr",
-        date: "April 2020 - June 2020",
+        date: "April 2021 - June 2022",
         content: [
           "My role at Listnr included a lot of research work about Audio Encoders and Vocoders and Speech Synthesis in general.",
           "Worked on some SOTA Inference TTS Models such as TacoTron2, FastSpeech2, and Wavenet.",
@@ -410,7 +410,7 @@ const resumeleft = {
 const resumeright = {
   right: [
     {
-      title: ["Education"],
+      title: ["Education Journey"],
       data: [
         {
           title: "Bachelor of Science in Civil and Environmental Engineering",
