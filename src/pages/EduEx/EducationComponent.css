@@ -99,7 +99,7 @@
   padding-left: 80px !important;
 }
 
-@media (max-width: 767px) {
+@media (max-width: 1300px) {
   .resume-left {
     padding-right: 15px !important;
     padding-left: 15px !important;
