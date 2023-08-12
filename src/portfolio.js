@@ -167,7 +167,7 @@ const skills = {
 const projectsHeader = {
   title: "Projects",
   description:
-    "My projects makes use of vast variety of latest technology tools. My best experience is to create Data Science projects and deploy them to web applications using cloud infrastructure.",
+  "Explore my data analysis projects that showcase insights, visualizations, and actionable recommendations across diverse domains.",
 };
 
 //project cards
