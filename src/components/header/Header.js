@@ -67,7 +67,7 @@ class Header extends Component {
                   onMouseEnter={(event) => onMouseEnter(event, theme.blue)}
                   onMouseOut={(event) => onMouseOut(event)}
                 >
-                  Projects
+                  My Portfolio
                 </NavLink>
               </li>
               <li>
