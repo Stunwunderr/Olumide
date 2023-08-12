@@ -416,7 +416,7 @@ const resumeright = {
           title: "Bachelor of Science in Civil and Environmental Engineering",
           subtitle: "University of Lagos, Akoka, Lagos.",
           date: "2017 - 2022",
-          content: ["CGPA: 8.06/10"],
+          content: ["Relevant Coursework: Statistics for Engineers, Numerical Analysis, Transportation Engineering and Traffic Analysis, Environmental Engineering"],
         },
         {
           title: "Higher Secondary Certificate [HSC]",
