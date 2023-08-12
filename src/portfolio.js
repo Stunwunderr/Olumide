@@ -369,18 +369,15 @@ const resumeleft = {
     title: ["Experience"],
     data: [
       {
-        title: "Data Scientist",
-        subtitle: "Nactus India Services Private Limited",
-        date: "June 2020 - present",
+        title: "Data Analyst",
+        subtitle: "NeoDocto Inc, Lagos State, Nigeria",
+        date: "August 2022 - January 2023",
         content: [
-          "Used T5 Transformer Model to build a Question Answering Model which generates questions based on Keywords extracted (WordNet, Sense2Vec) from studyshot notes.",
-          "Built an MCQ Generation model using BERT",
-          "Developed a personalized Chatbot using Rasa (Botfront.io).",
-          "Created an Automatic Thumbnail Generator & Uploader for our youtube videos using Youtube v3 API",
-          "Working on OpenAI's semantic search engine.",
-          "Created a Clean MaterialUI Design for prototyping and design fixing before production-ready of APP",
-          "Created FrontEnd components for StudyShot website",
-          "Working on recommendation system for concept notes and questions based on student's behavior on our Flutter App(tracking)",
+          "Analyzed large datasets to extract valuable insights and trends.",
+          "Created clear and informative data visualizations and reports.",
+          "Collaborated with teams to define data requirements for projects.",
+          "Ensured data accuracy, quality, and consistency in reporting.",
+          "Contributed to data-driven decision-making discussions.",
         ],
       },
       {
@@ -393,19 +390,11 @@ const resumeleft = {
           "Also had hands-on with real-time voice cloning algorithm.",
         ],
       },
-      {
-        title: "Data Science Intern",
-        subtitle: "iNeuron.ai",
-        date: "Nov 2020 - January 2021",
-        content: [
-          "Phase 1 included Data Cleaning & Data Annotation for object detection task",
-          "Used YOLO v5 for Fire Detection Project",
-        ],
-      },
+        
       {
         title: "Loss Control Manager",
-        subtitle: "Adide",
-        date: "January 2020 - January 2021",
+        subtitle: "Addide Store",
+        date: "January 2015 - January 2016",
         content: [
           "Identified and evaluated potential risks across various aspects of the organization.",
           "Developed and implemented strategies to prevent accidents, theft, and other sources of loss.",
@@ -424,9 +413,9 @@ const resumeright = {
       title: ["Education"],
       data: [
         {
-          title: "Bachelor of Engineering in Information Technology",
-          subtitle: "Vidyalankar Institute of Technology, Mumbai",
-          date: "2016 - 2020",
+          title: "Bachelor of Science in Civil and Environmental Engineering",
+          subtitle: "University of Lagos, Akoka, Lagos.",
+          date: "2017 - 2022",
           content: ["CGPA: 8.06/10"],
         },
         {
@@ -620,7 +609,7 @@ const socialMediaLinks = [
   },
   {
     name: "LinkedIn",
-    link: "https://www.linkedin.com/in/",
+    link: "https://www.linkedin.com/in/olumide-omobukola",
     fontAwesomeIcon: "fa-linkedin-in", // Reference https://fontawesome.com/icons/linkedin-in?style=brands
     backgroundColor: "#0077B5", // Reference https://simpleicons.org/?q=linkedin
   },
