@@ -437,49 +437,7 @@ const resumeright = {
 //certificate cards
 const certifications = {
   certifications: [
-    {
-      title: "Tableau Analyst",
-      subtitle: "Tableau",
-      logo_path: "tabana-01.png",
-      certificate_link:
-        "https://www.credly.com/badges/2d43f401-7be0-407d-9a77-7477dda8cade/linked_in_profile",
-      alt_name: "Tableau",
-      color_code: "#000000",
-    },
-    {
-      title: "Tableau Consumer",
-      subtitle: "Tableau",
-      logo_path: "tabcon-01.png",
-      certificate_link:
-        "https://www.credly.com/badges/e5befe7b-2eec-486f-b77e-bd2458c18b26/linked_in_profile",
-      alt_name: "Tableau",
-      color_code: "#000000",
-    },
-    {
-      title: "Problem solving",
-      subtitle: "HackerRank",
-      logo_path: "problem-01.png",
-      certificate_link: "https://www.hackerrank.com/rohankokkula",
-      alt_name: "HackerRank",
-      color_code: "#000000",
-    },
-    {
-      title: "Python",
-      subtitle: "HackerRank",
-      logo_path: "python-01.png",
-      certificate_link: "https://www.hackerrank.com/rohankokkula",
-      alt_name: "HackerRank",
-      color_code: "#000000",
-    },
-    {
-      title: "Certificate of Merit",
-      subtitle: "Summer Analytics | IIT Guwahati",
-      logo_path: "iitg-01.png",
-      certificate_link:
-        "https://www.coursera.org/account/accomplishments/verify/22MTSSC5WDTM",
-      alt_name: "IITG",
-      color_code: "#000000",
-    },
+  
     {
       title: "Financial Modelling and Valuation Analyst ",
       subtitle: "Corporate Financial Institute",
