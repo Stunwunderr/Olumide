@@ -499,11 +499,11 @@ const certifications = {
       color_code: "#000000",
     },
     {
-      title: "Tableau Desktop Qualified Associate",
-      subtitle: "SimpliLearn",
+      title: "Financial Modelling and Valuation Analyst ",
+      subtitle: "Corporate Financial Institute",
       logo_path: "simplilearn-01.png",
       certificate_link:
-        "https://www.coursera.org/account/accomplishments/verify/22MTSSC5WDTM",
+        "https://drive.google.com/file/d/1GIkddfb2VxBAjzSSt1koROb2-EyskxIO/view?usp=drive_link",
       alt_name: "Simplilearn",
       color_code: "#000000",
     },
@@ -512,7 +512,7 @@ const certifications = {
       subtitle: "Corporate Financial Institute",
       logo_path: "udemy-01.png",
       certificate_link:
-        "https://drive.google.com/file/d/1GIkddfb2VxBAjzSSt1koROb2-EyskxIO/view?usp=drive_link",
+        "https://drive.google.com/file/d/1XSMt67pqAy8hX_AfHvCd7t9O_UCslQM1/view?usp=drive_link",
       alt_name: "Corporate Financial Institute",
       color_code: "#000000",
     },
