@@ -557,7 +557,7 @@ const certifications = {
       subtitle: "CISCO",
       logo_path: "ineuron-01.png",
       certificate_link:
-        "https://academy.ineuron.ai/certificates/downloads/TB000634.pdf",
+        "https://omobukolaolumide.netlify.app/src/assets/certificates/cisco.pdf",
       alt_name: "CISCO",
       color_code: "#000000",
     },
