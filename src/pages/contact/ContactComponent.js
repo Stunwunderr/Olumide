@@ -2,7 +2,7 @@ import React, { Component } from "react";
 import Header from "../../components/header/Header";
 import Footer from "../../components/footer/Footer";
 import TopButton from "../../components/topButton/TopButton";
-import SocialMedia from "../../components/socialMedia/SocialMedia";
+import CompetitiveSites from "../../components/competitiveSites/CompetitiveSites";
 import Button from "../../components/button/Button";
 import AddressImg from "./AddressImg";
 import { Fade } from "react-reveal";
@@ -38,7 +38,7 @@ class Contact extends Component {
                 >
                   {ContactData["description"]}
                 </p>
-                <SocialMedia theme={theme} />
+                <CompetitiveSites logos={competitiveSites.competitiveSites} />      
                 <div className="resume-btn-div">
                   <Button
                     text="Send Me An Email"
