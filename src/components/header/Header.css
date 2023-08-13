@@ -33,12 +33,12 @@
 }
 
 .header li a:active{
-color:pink;
+color: #3498db;
 }
 
 .header li a:hover,
 .header .menu-btn:hover {
-  /* background-color: #A6E1FA; */
+   background-color: #3498db;
 }
 
 .header .logo {
