@@ -30,12 +30,12 @@ const greeting = {
 const competitiveSites = {
   competitiveSites: [
     {
-      siteName: "Facebook",
-      iconifyClassname: "simple-icons:facebook",
+      siteName: "GitHub",
+      iconifyClassname: "simple-icons:github",
       style: {
-        color: "#4267B2",
+        color: "white",
       },
-      profileLink: "https://facebook.com/",
+      profileLink: "https://github.com/",
     },
     {
       siteName: "Facebook",
