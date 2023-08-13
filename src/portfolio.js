@@ -493,12 +493,31 @@ const certifications = {
       color_code: "#000000",
     },
     {
+      title: "Power BMI",
+      subtitle: "Corporate Financial Institute",
+      logo_path: "cfi.png",
+      certificate_link:
+        "https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/65641773",
+      alt_name: "Corporate Financial Institute",
+      color_code: "#000000",
+    },
+
+    {
       title: "Introduction to IoT",
       subtitle: "CISCO",
       logo_path: "cisco.png",
       certificate_link:
         "https://drive.google.com/file/d/1CgZWVv0wOXuIavY0dZ7RXdhmYnCsbpqL/view?usp=drive_link",
       alt_name: "CISCO",
+      color_code: "#000000",
+    },
+    {
+      title: "Python Fundamentals",
+      subtitle: "Corporate Financial Institute",
+      logo_path: "cfi.png",
+      certificate_link:
+        "https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/65622718",
+      alt_name: "Corporate Financial Institute",
       color_code: "#000000",
     },
   ],
