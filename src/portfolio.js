@@ -537,7 +537,7 @@ const certifications = {
     {
       title: "Jobberman Soft-Skills Training",
       subtitle: "Jobberman",
-      logo_path: "datacamp-01.png",
+      logo_path: "jobberman.png",
       certificate_link:
         "https://drive.google.com/file/d/1g_07SMBXv6cApgbbvsjh6FemSNQzzcZ5/view?usp=drive_link",
       alt_name: "Jobberman",
