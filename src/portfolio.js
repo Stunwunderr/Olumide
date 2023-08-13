@@ -10,7 +10,7 @@ const seo = {
   og: {
     title: "Omobukola Olumide | Portfolio",
     type: "website",
-    url: "https://olumideomobukola.vercel.app",
+    url: "https://olumideportfolio.netlify.app",
   },
 };
 //Web developer
