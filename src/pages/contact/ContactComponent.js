@@ -3,6 +3,7 @@ import Header from "../../components/header/Header";
 import Footer from "../../components/footer/Footer";
 import TopButton from "../../components/topButton/TopButton";
 import CompetitiveSites from "../../components/competitiveSites/CompetitiveSites";
+import { competitiveSites } from "../../portfolio";
 import Button from "../../components/button/Button";
 import AddressImg from "./AddressImg";
 import { Fade } from "react-reveal";
