@@ -539,7 +539,7 @@ const certifications = {
       subtitle: "Jobberman",
       logo_path: "datacamp-01.png",
       certificate_link:
-        "jobberman.jpg",
+        "https://drive.google.com/file/d/1g_07SMBXv6cApgbbvsjh6FemSNQzzcZ5/view?usp=drive_link",
       alt_name: "Jobberman",
       color_code: "#000000",
     },
@@ -548,7 +548,7 @@ const certifications = {
       subtitle: "Forage",
       logo_path: "ineuron-01.png",
       certificate_link:
-        "forage.pdf",
+        "https://drive.google.com/file/d/1QjA4PzibKt-L__l3vhNbrfv4CHEhAmqd/view?usp=drive_link",
       alt_name: "Forage",
       color_code: "#000000",
     },
