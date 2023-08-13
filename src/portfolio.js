@@ -33,7 +33,15 @@ const competitiveSites = {
       siteName: "Facebook",
       iconifyClassname: "simple-icons:facebook",
       style: {
-        color: "blue",
+        color: "#4267B2",
+      },
+      profileLink: "https://facebook.com/",
+    },
+    {
+      siteName: "Facebook",
+      iconifyClassname: "simple-icons:facebook",
+      style: {
+        color: "#4267B2",
       },
       profileLink: "https://facebook.com/",
     },
