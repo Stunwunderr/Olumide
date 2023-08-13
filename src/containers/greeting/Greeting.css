@@ -18,7 +18,6 @@
 
 .greeting-main {
   display: flex;
-  flex-direction: column;
 }
 
 .greeting-main > * {
@@ -32,7 +31,7 @@
 }
 
 .greeting-text {
-  margin-top: 10px;
+  margin-top: 0px;
   font-size: 100px;
   margin-bottom: 0px;
   line-height: 1.1;
@@ -179,8 +178,8 @@
 }
 
 [data-entity][data-entity="noun"] {
-  background: rgba(255, 255, 0, 0.2);
-  border-color: rgba(255, 255, 0);
+  background: rgba(166, 226, 45, 0.2);
+  border-color: rgb(166, 226, 45);
   color: rgb(255, 255, 255);
 }
 [data-entity][data-entity="noun"]::after {
@@ -189,55 +188,43 @@
 }
 
 [data-entity][data-entity="person"] {
-  background: rgba(255, 0, 0, 0.2); 
-  border-color: rgba(255, 0, 0); 
+  background: rgba(45, 226, 217, 0);
+  border-color: rgb(45, 226, 141);
   color: rgb(255, 255, 255);
 }
 
 [data-entity][data-entity="person"]::after {
-  background: rgba(255, 0, 0); 
+  background: rgb(45, 226, 141);
   color: rgb(0, 0, 0);
 }
 
 [data-entity][data-entity="skill"] {
-  background: rgba(255, 165, 0, 0.2); 
-  border-color: rgba(255, 165, 0);
+  background: rgb(187, 47, 117, 0.2);
+  border-color: rgb(187, 47, 117);
   color: rgb(255, 255, 255);
 }
 
 [data-entity][data-entity="skill"]::after {
-  background: rgba(255, 165, 0);
+  background: rgb(187, 47, 117);
 }
 
 [data-entity][data-entity="freelance"] {
-  background: rgba(0, 0, 255, 0.2); 
-  border-color: rgba(0, 0, 255); 
+  background: rgb(187, 161, 47, 0.2);
+  border-color: rgb(187, 161, 47);
   color: rgb(255, 255, 255);
 }
 
 [data-entity][data-entity="freelance"]::after {
-  background: rgba(0, 0, 255); 
+  background: rgb(187, 161, 47);
   color: rgb(0, 0, 0);
 }
 
 [data-entity][data-entity="verb"] {
-  background: rgba(0, 255, 0, 0.2); 
-  border-color: rgba(0, 255, 0); 
+  background: rgba(47, 187, 171, 0.2);
+  border-color: rgb(47, 187, 171);
   color: rgb(255, 255, 255);
 }
 
 [data-entity][data-entity="verb"]::after {
-  background: rgba(0, 255, 0); 
-}
-.container {
-  width: 80vw;
-}
-.container img {
-  filter: grayscale(100%);
-  max-width: 100%;
-  border-radius: 2rem;
-  height: auto;
-}
-.container img:hover {
-  filter: none;
-}
+  background: rgb(21, 124, 112);
+  }
