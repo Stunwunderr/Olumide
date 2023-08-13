@@ -501,16 +501,16 @@ const certifications = {
     {
       title: "Financial Modelling and Valuation Analyst ",
       subtitle: "Corporate Financial Institute",
-      logo_path: "simplilearn-01.png",
+      logo_path: "cfi.png",
       certificate_link:
         "https://drive.google.com/file/d/1GIkddfb2VxBAjzSSt1koROb2-EyskxIO/view?usp=drive_link",
-      alt_name: "Simplilearn",
+      alt_name: "Corporate Financial Institute",
       color_code: "#000000",
     },
     {
       title: "Excel Fundamentals - Formulas for Finance",
       subtitle: "Corporate Financial Institute",
-      logo_path: "udemy-01.png",
+      logo_path: "cfi.png",
       certificate_link:
         "https://drive.google.com/file/d/1XSMt67pqAy8hX_AfHvCd7t9O_UCslQM1/view?usp=drive_link",
       alt_name: "Corporate Financial Institute",
@@ -546,7 +546,7 @@ const certifications = {
     {
       title: "Data Analytics",
       subtitle: "Forage",
-      logo_path: "ineuron-01.png",
+      logo_path: "forage.png",
       certificate_link:
         "https://drive.google.com/file/d/1QjA4PzibKt-L__l3vhNbrfv4CHEhAmqd/view?usp=drive_link",
       alt_name: "Forage",
@@ -555,7 +555,7 @@ const certifications = {
     {
       title: "Introduction to IoT",
       subtitle: "CISCO",
-      logo_path: "ineuron-01.png",
+      logo_path: "cisco.png",
       certificate_link:
         "https://drive.google.com/file/d/1CgZWVv0wOXuIavY0dZ7RXdhmYnCsbpqL/view?usp=drive_link",
       alt_name: "CISCO",
