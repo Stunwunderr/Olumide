@@ -38,24 +38,16 @@ const competitiveSites = {
       profileLink: "https://github.com/",
     },
     {
-      siteName: "HackerRank",
-      iconifyClassname: "simple-icons:hackerrank",
+      siteName: "Instagram",
+      iconifyClassname: "simple-icons:instagram",
       style: {
         color: "#2EC866",
       },
       profileLink: "https://www.hackerrank.com/",
     },
     {
-      siteName: "Kaggle",
-      iconifyClassname: "simple-icons:kaggle",
-      style: {
-        color: "#20BEFF",
-      },
-      profileLink: "https://www.kaggle.com/",
-    },
-    {
-      siteName: "Hackerearth",
-      iconifyClassname: "simple-icons:hackerearth",
+      siteName: "Email",
+      iconifyClassname: "simple-icons:email",
       style: {
         color: "#323754",
       },
@@ -68,15 +60,7 @@ const competitiveSites = {
         color: "#0077b5",
       },
       profileLink: "https://www.linkedin.com/in/",
-    },
-    {
-      siteName: "HashNode",
-      iconifyClassname: "simple-icons:hashnode",
-      style: {
-        color: "#2962ff",
-      },
-      profileLink: "",
-    },
+    },   
   ],
 };
 
