@@ -1,5 +1,6 @@
-import lottie from 'lottie-web';import React, {useRef,useEffect } from "react";
-import React, { Component } from "react";
+import lottie from 'lottie-web';
+import React, {useRef,useEffect } from "react";
+// import React, { Component } from "react";
 // import banner from "./olumide.jpg"
 // import "./Greeting.css";
 
