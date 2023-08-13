@@ -466,6 +466,15 @@ const certifications = {
       color_code: "#000000",
     },
     {
+      title: "Budgeting and Forecasting",
+      subtitle: "Corporate Financial Institute",
+      logo_path: "cfi.png",
+      certificate_link:
+        "https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/60222199",
+      alt_name: "Corporate Financial Institute",
+      color_code: "#000000",
+    },
+    {
       title: "Google Data Analytics",
       subtitle: "Coursera",
       logo_path: "coursera-01.png",
@@ -475,12 +484,30 @@ const certifications = {
       color_code: "#000000",
     },
     {
+      title: "Tableau Fundamentals",
+      subtitle: "Corporate Financial Institute",
+      logo_path: "cfi.png",
+      certificate_link:
+        "https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/65642903",
+      alt_name: "Corporate Financial Institute",
+      color_code: "#000000",
+    },
+    {
       title: "Jobberman Soft-Skills Training",
       subtitle: "Jobberman",
       logo_path: "jobberman.png",
       certificate_link:
         "https://drive.google.com/file/d/1g_07SMBXv6cApgbbvsjh6FemSNQzzcZ5/view?usp=drive_link",
       alt_name: "Jobberman",
+      color_code: "#000000",
+    },
+    {
+      title: "SQL Fundamentals",
+      subtitle: "Corporate Financial Institute",
+      logo_path: "cfi.png",
+      certificate_link:
+        "https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/65646408",
+      alt_name: "Corporate Financial Institute",
       color_code: "#000000",
     },
     {
