@@ -27,7 +27,7 @@ class CertificationCard extends Component {
               {certificate.title}
               <a
                 style={{ color: theme.text }}
-                href={require(`../../assets/certificates/${certificate.certificate_link}`)}
+                href={certificate.certificate_link}
                 target="_blank"
                 rel="noopener noreferrer"
               >
