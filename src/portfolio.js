@@ -419,15 +419,8 @@ const resumeright = {
       ],
     },
     {
-      title: ["Ranks and Achivements"],
-      data: [
-        {
-          title: "Ranks",
-          content: [
-            "#135/854 in Summer Analytics Kaggle Competition by IITG",
-            "#113/5064 in CV-NLP Hackathon by HackerEarth",
-          ],
-        },
+      title: ["Achivements"],
+      data: [     
         {
           title: "Achievements",
           content: [
@@ -437,26 +430,7 @@ const resumeright = {
           ],
         },
       ],
-    },
-    {
-      title: ["Freelance Work"],
-      data: [
-        {
-          title: "Consultancy Website",
-          subtitle: "kidsworldeducationconsultants.com",
-          content: [
-            "Created and hosted a website for consultancy providers in Kids Education Domain",
-          ],
-        },
-        {
-          title: "Portfolio Website",
-          subtitle: "pranavphulware.netlify.app",
-          content: [
-            "Built a personal Filmography portfolio for a friend and later hosted it at Netlify",
-          ],
-        },
-      ],
-    },
+    },      
   ],
 };
 
