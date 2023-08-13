@@ -512,7 +512,7 @@ const certifications = {
       subtitle: "Corporate Financial Institute",
       logo_path: "udemy-01.png",
       certificate_link:
-        "cfi.jpg",
+        "https://drive.google.com/file/d/1GIkddfb2VxBAjzSSt1koROb2-EyskxIO/view?usp=drive_link",
       alt_name: "Corporate Financial Institute",
       color_code: "#000000",
     },
@@ -521,7 +521,7 @@ const certifications = {
       subtitle: "Coursera",
       logo_path: "coursera-01.png",
       certificate_link:
-        "dataanal.pdf",
+        "https://drive.google.com/file/d/13aVvyb4LB717FXTF1RBnWlqeL17-suZ0/view?usp=drive_link",
       alt_name: "Data Analysis with R Programming",
       color_code: "#000000",
     },
@@ -530,7 +530,7 @@ const certifications = {
       subtitle: "Coursera",
       logo_path: "coursera-01.png",
       certificate_link:
-        "coursera.pdf",
+        "https://drive.google.com/file/d/1BvxiR2IqlJ8moZoHvQRHGFTfUkc28Nff/view?usp=drive_link",
       alt_name: "Google Data Analytics",
       color_code: "#000000",
     },
@@ -557,7 +557,7 @@ const certifications = {
       subtitle: "CISCO",
       logo_path: "ineuron-01.png",
       certificate_link:
-        "cisco.pdf",
+        "https://drive.google.com/file/d/1CgZWVv0wOXuIavY0dZ7RXdhmYnCsbpqL/view?usp=drive_link",
       alt_name: "CISCO",
       color_code: "#000000",
     },
