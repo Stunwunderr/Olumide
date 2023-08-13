@@ -512,7 +512,7 @@ const certifications = {
       subtitle: "Corporate Financial Institute",
       logo_path: "udemy-01.png",
       certificate_link:
-        "https://www.udemy.com/certificate/UC-b17c4c21-91e3-4f8b-b9c2-259468910985/",
+        "cfi.jpg",
       alt_name: "Corporate Financial Institute",
       color_code: "#000000",
     },
@@ -521,7 +521,7 @@ const certifications = {
       subtitle: "Coursera",
       logo_path: "coursera-01.png",
       certificate_link:
-        "https://www.coursera.org/account/accomplishments/verify/22MTSSC5WDTM",
+        "dataanal.pdf",
       alt_name: "Data Analysis with R Programming",
       color_code: "#000000",
     },
@@ -530,7 +530,7 @@ const certifications = {
       subtitle: "Coursera",
       logo_path: "coursera-01.png",
       certificate_link:
-        "https://www.coursera.org/account/accomplishments/verify/22MTSSC5WDTM",
+        "coursera.pdf",
       alt_name: "Google Data Analytics",
       color_code: "#000000",
     },
@@ -539,7 +539,7 @@ const certifications = {
       subtitle: "Jobberman",
       logo_path: "datacamp-01.png",
       certificate_link:
-        "https://www.datacamp.com/statement-of-accomplishment/track/29f2ddab3fbfd0a470713a19c729c0f9d89c88aa",
+        "jobberman.jpg",
       alt_name: "Jobberman",
       color_code: "#000000",
     },
@@ -548,7 +548,7 @@ const certifications = {
       subtitle: "Forage",
       logo_path: "ineuron-01.png",
       certificate_link:
-        "https://academy.ineuron.ai/certificates/downloads/PB009929.pdf",
+        "forage.pdf",
       alt_name: "Forage",
       color_code: "#000000",
     },
@@ -557,7 +557,7 @@ const certifications = {
       subtitle: "CISCO",
       logo_path: "ineuron-01.png",
       certificate_link:
-        "https://omobukolaolumide.netlify.app/src/assets/certificates/cisco.pdf",
+        "cisco.pdf",
       alt_name: "CISCO",
       color_code: "#000000",
     },
