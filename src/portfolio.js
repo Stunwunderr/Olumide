@@ -41,17 +41,17 @@ const competitiveSites = {
       siteName: "Instagram",
       iconifyClassname: "simple-icons:instagram",
       style: {
-        color: "#2EC866",
+        color: "#dd2a7b",
       },
-      profileLink: "https://www.hackerrank.com/",
+      profileLink: "https://www.instagram.com/",
     },
     {
       siteName: "Email",
-      iconifyClassname: "simple-icons:email",
+      iconifyClassname: "simple-icons:envelope",
       style: {
         color: "#323754",
       },
-      profileLink: "https://www.hackerearth.com/",
+      profileLink: "omobukolaolumide@gmail.com",
     },
     {
       siteName: "LinkedIn",
