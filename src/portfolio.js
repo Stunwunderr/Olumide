@@ -30,12 +30,12 @@ const greeting = {
 const competitiveSites = {
   competitiveSites: [
     {
-      siteName: "Github",
-      iconifyClassname: "simple-icons:github",
+      siteName: "Facebook",
+      iconifyClassname: "simple-icons:facebook",
       style: {
-        color: "white",
+        color: "blue",
       },
-      profileLink: "https://github.com/",
+      profileLink: "https://facebook.com/",
     },
     {
       siteName: "Instagram",
@@ -44,14 +44,6 @@ const competitiveSites = {
         color: "#dd2a7b",
       },
       profileLink: "https://www.instagram.com/",
-    },
-    {
-      siteName: "Email",
-      iconifyClassname: "simple-icons:envelope",
-      style: {
-        color: "#323754",
-      },
-      profileLink: "omobukolaolumide@gmail.com",
     },
     {
       siteName: "LinkedIn",
