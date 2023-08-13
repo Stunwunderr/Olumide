@@ -404,8 +404,8 @@ const resumeright = {
           title: "West African Senior School Certificate (WASSCE) ",
           subtitle: "Timi Comprehensive College, Lagos",
           date: "2010 - 2016",
-          content: ["Major: Science"],
-          content: ["Achieved consistent top grades in science-related subjects, Engaged in science-focused extracurricular activities"],
+          content: ["Major: Science" "Achieved consistent top grades in science-related subjects, Engaged in science-focused extracurricular activities"
+        ],
         },
       ],
     },
