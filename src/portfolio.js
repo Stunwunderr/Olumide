@@ -493,7 +493,7 @@ const certifications = {
       color_code: "#000000",
     },
     {
-      title: "Power BMI",
+      title: "Power BI Financial Statements",
       subtitle: "Corporate Financial Institute",
       logo_path: "cfi.png",
       certificate_link:
