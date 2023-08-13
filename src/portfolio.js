@@ -423,9 +423,9 @@ const resumeright = {
         {
           title: "Achievements",
           content: [
-            "Designing Team Head at ACM-VIT",
-            "5⭐ Gold Badges for Python & Problem Solving at HackerRank ",
-            "Tableau Analyst & Consumer Badge by Tableau Official",
+            "Young African Leaders Initiative",
+            "Financial Modeling and Valuation Analyst [FMVCA] at Corporate Financial Institute.",
+            "Google Analyst & Consumer Badge by Coursera",
           ],
         },
       ],
