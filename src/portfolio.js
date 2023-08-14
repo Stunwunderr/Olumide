@@ -16,7 +16,7 @@ const seo = {
 //Web developer
 const developer = {
   sub: "Codewunder",
-  link: "https://codewunder.vercel.app
+  link: "https://codewunder.vercel.app",
 }
 //Home Page
 const greeting = {
