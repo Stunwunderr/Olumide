@@ -16,7 +16,7 @@ const seo = {
 //Web developer
 const developer = {
   sub: "Codewunder",
-  link: "https://codewunder.vercel.app",
+  link: "https://codewunder.vercel.app
 }
 //Home Page
 const greeting = {
@@ -79,8 +79,8 @@ const skills = {
       softwareSkills: [
         
         {
-          skillName: "PyTorch",
-          fontAwesomeClassname: "logos-pytorch",
+          skillName: "Excel",
+          fontAwesomeClassname: "logos-excel",
           style: {
             backgroundColor: "transparent",
           },
@@ -114,8 +114,8 @@ const skills = {
           },
         },
         {
-          skillName: "NumPy",
-          fontAwesomeClassname: "logos-numpy",
+          skillName: "PowerBi",
+          fontAwesomeClassname: "logos-powerbi",
           style: {
             backgroundColor: "transparent",
           },
@@ -132,8 +132,8 @@ const skills = {
       ],
       softwareSkills: [
         {
-          skillName: "Tensorflow",
-          fontAwesomeClassname: "logos-tensorflow",
+          skillName: "SSMS",
+          fontAwesomeClassname: "logos-ssms",
           style: {
             backgroundColor: "transparent",
           },
