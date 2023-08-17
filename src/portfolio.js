@@ -251,7 +251,7 @@ const projectcards = {
           color: "red",
         },
       ],
-      link: "",
+      link: "https://medium.com/@omobukolaolumide/sales-analysis-193d78d45cc7",
       code: "",
       linkcolor: "white",
     },
