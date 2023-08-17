@@ -206,7 +206,7 @@ const projectcards = {
       title: "Nothwind Traders Analysis",
       img_path: "traders.gif",
       description:
-        "A webapp to visualize Neural Networks based on no. of layers and neurons, calculate Loss and understand math behind Back Propagation algo.",
+        "The purpose of this dashboard is to provide a quick and comprehensive understanding of the company's performance in key areas.",
       tags: [        
         {
           lang: "SQL",
@@ -218,25 +218,25 @@ const projectcards = {
         },
       ],
       link: "https://medium.com/@omobukolaolumide/northwind-traders-99a5243da9a9",
-      code: "https://github.com/rohankokkula/neuralviz",
+      code: "",
       linkcolor: "white",
     },
     {
-      title: "Semantic Search APP",
-      img_path: "project-03.png",
+      title: "SQL Covid 19 Analysis",
+      img_path: "covid.gif",
       description:
-        "Demo of OpenAI's GPT-3 model on Semantic search using streamlit.",
+        "SQL covid 19 Analysis",
       tags: [
         {
-          lang: "ongoing",
+          lang: "Excel",
           color: "red",
         },
         {
-          lang: "Streamlit",
+          lang: "SQL",
           color: "#ff4b4b",
         },
       ],
-      link: "",
+      link: "https://medium.com/@omobukolaolumide/how-hard-is-sql-dcad0f6a893b",
       code: "",
       linkcolor: "white",
     },
