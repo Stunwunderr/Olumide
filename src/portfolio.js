@@ -43,7 +43,7 @@ const competitiveSites = {
       style: {
         color: "#4267B2",
       },
-      profileLink: "https://facebook.com/",
+      profileLink: "https://www.facebook.com/profile.php?id=100005058017746&mibextid=2JQ9oc",
     },
     {
       siteName: "Instagram",
@@ -51,7 +51,7 @@ const competitiveSites = {
       style: {
         color: "#dd2a7b",
       },
-      profileLink: "https://www.instagram.com/",
+      profileLink: "https://instagram.com/omobukolaolumide?igshid=MjEwN2IyYWYwYw==",
     },
     {
       siteName: "LinkedIn",
@@ -59,7 +59,7 @@ const competitiveSites = {
       style: {
         color: "#0077b5",
       },
-      profileLink: "https://www.linkedin.com/in/",
+      profileLink: "https://www.linkedin.com/in/olumide-omobukola",
     },   
   ],
 };
