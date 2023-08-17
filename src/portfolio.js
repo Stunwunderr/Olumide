@@ -169,7 +169,7 @@ const projectcards = {
         "The goal of this project is to give you practical Knowledge on Budgets,Money made from Movies,Writers and so on in the IMDB movie industry as a data analyst.",
       tags: [
         {
-          lang: "python",
+          lang: "Python",
           color: "#004782",
         },
         {
@@ -225,7 +225,7 @@ const projectcards = {
       title: "SQL Covid 19 Analysis",
       img_path: "covid.gif",
       description:
-        "SQL covid 19 Analysis",
+        "Explored COVID-19 data using SQL to uncover trends, regional variations, and testing correlations. Presented insights with SQL-generated visualizations.",
       tags: [
         {
           lang: "Excel",
@@ -244,7 +244,7 @@ const projectcards = {
       title: "Excel Projects",
       img_path: "excel.gif",
       description:
-        "A python streamlit webapp to automate generating & uploading youtube thumbnails using Youtube v3 API",
+        "Demonstrated Excel proficiency through sales analysis, identifying top products and financial health assessment for a startup using financial statements.",
       tags: [
         {
           lang: "Excel",
@@ -253,34 +253,6 @@ const projectcards = {
       ],
       link: "https://medium.com/@omobukolaolumide/sales-analysis-193d78d45cc7",
       code: "",
-      linkcolor: "white",
-    },
-
-    {
-      title: "Newsearcher",
-      img_path: "news.gif",
-      description:
-        "Enter your search keyword and get a summary of news weblinks with images without actually opening the links.",
-      tags: [
-        {
-          lang: "python",
-          color: "#004782",
-        },
-        {
-          lang: "newspaper3k",
-          color: "#303030",
-        },
-        {
-          lang: "Streamlit",
-          color: "#ff4b4b",
-        },
-        {
-          lang: "nltk",
-          color: "#051c61",
-        },
-      ],
-      link: "https://newsearcher.herokuapp.com/",
-      code: "https://github.com/rohankokkula/Newsearcher",
       linkcolor: "white",
     },
     {
