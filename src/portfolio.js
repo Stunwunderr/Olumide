@@ -163,34 +163,23 @@ const projectsHeader = {
 const projectcards = {
   list: [
     {
-      title: "TEATH",
+      title: "Top 250 IMDB Movies",
       img_path: "project-06.png",
       description:
-        "A WebApp for Extracting Text from Images and applying various thresholding methods with sentiment analysis using TextBlob",
+        "The goal of this project is to give you practical Knowledge on Budgets,Money made from Movies,Writers and so on in the IMDB movie industry as a data analyst.",
       tags: [
         {
           lang: "python",
           color: "#004782",
         },
         {
-          lang: "TextBlob",
+          lang: "PowerBi",
           color: "#820032",
         },
-        {
-          lang: "OpenCV",
-          color: "#00a100",
-        },
-        {
-          lang: "Streamlit",
-          color: "#ff4b4b",
-        },
-        {
-          lang: "Heroku",
-          color: "#3c0095",
-        },
+        
       ],
-      link: "https://teath.herokuapp.com ",
-      code: "https://github.com/rohankokkula/TEATH",
+      link: "https://medium.com/@omobukolaolumide/top-250-imdb-movies-edc17e9d8134",
+      code: "",
       linkcolor: "white",
     },
 
