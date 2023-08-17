@@ -80,7 +80,7 @@ const skills = {
         
         {
           skillName: "Excel",
-          fontAwesomeClassname: "simple-icons:excel",
+          fontAwesomeClassname: "ion-logo-excel",
           style: {
             backgroundColor: "transparent",
           },
@@ -106,8 +106,8 @@ const skills = {
       ],
       softwareSkills: [
        {
-          skillName: "Pandas",
-          fontAwesomeClassname: "simple-icons:sql",
+          skillName: "SQL",
+          fontAwesomeClassname: "ion-logo-sql",
           style: {
             backgroundColor: "transparent",
             color: "#3776AB",
@@ -133,7 +133,7 @@ const skills = {
       softwareSkills: [
         {
           skillName: "SSMS",
-          fontAwesomeClassname: "simple-icons:ssms",
+          fontAwesomeClassname: "logos-ssms",
           style: {
             backgroundColor: "transparent",
           },
