@@ -66,21 +66,7 @@ class Projects extends Component {
                               marginLeft: "10px",
                             }}
                           ></i>
-                        </a>
-                        <a
-                          style={{ color: theme.text }}
-                          href={proj.code}
-                          target="_blank"
-                          rel="noopener noreferrer"
-                        >
-                          <i
-                            className={`fab fa-github`}
-                            style={{
-                              color: proj.linkcolor,
-                              paddingLeft: "10px",
-                            }}
-                          ></i>
-                        </a>
+                        </a>      
                       </h2>
                     </Card.Title>
                     <div>
