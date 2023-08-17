@@ -184,33 +184,21 @@ const projectcards = {
     },
 
     {
-      title: "Voice Gender Detection",
-      img_path: "voice.gif",
+      title: "Sales Analysis",
+      img_path: "sales.gif",
       description:
-        "A streamlit webapp which detects user's gender and emotion based on realtime audio input.",
-      tags: [
-        {
-          lang: "ongoing",
-          color: "red",
-        },
+        "The goal is to answer the right questions that will help the company to make the right decisions.",
+      tags: [      
         {
           lang: "python",
           color: "#004782",
         },
         {
-          lang: "matplotlib",
+          lang: "PowerBi",
           color: "#c47206",
-        },
-        {
-          lang: "tensorflow",
-          color: "#4257f5",
-        },
-        {
-          lang: "Streamlit",
-          color: "#ff4b4b",
-        },
+        },        
       ],
-      link: "",
+      link: "https://medium.com/@omobukolaolumide/goals-13a6044c7f2e",
       code: "",
       linkcolor: "white",
     },
