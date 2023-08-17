@@ -164,7 +164,7 @@ const projectcards = {
   list: [
     {
       title: "Top 250 IMDB Movies",
-      img_path: "project-06.png",
+      img_path: "movie.gif",
       description:
         "The goal of this project is to give you practical Knowledge on Budgets,Money made from Movies,Writers and so on in the IMDB movie industry as a data analyst.",
       tags: [
