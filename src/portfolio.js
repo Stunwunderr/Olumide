@@ -447,7 +447,7 @@ const certifications = {
     {
       title: "High Dimensional Data Analytics",
       subtitle: "Havard University Powered By Edx",
-      logo_path: "cisco.png",
+      logo_path: "harvard.png",
       certificate_link:
         "",
       alt_name: "Havard University",
