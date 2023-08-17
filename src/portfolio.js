@@ -241,17 +241,13 @@ const projectcards = {
       linkcolor: "white",
     },
     {
-      title: "Youtube Thumbnail Generator & AutoUploader",
-      img_path: "project-02.png",
+      title: "Excel Projects",
+      img_path: "excel.gif",
       description:
         "A python streamlit webapp to automate generating & uploading youtube thumbnails using Youtube v3 API",
       tags: [
         {
-          lang: "internal project",
-          color: "red",
-        },
-        {
-          lang: "youtube v3 api",
+          lang: "Excel",
           color: "red",
         },
       ],
