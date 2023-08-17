@@ -479,7 +479,7 @@ const contactPageData = {
   },
   phoneSection: {
     title: "Phone Number",
-    subtitle: "+234812345678",
+    subtitle: "+234 903 177 3251",
   },
 };
 
