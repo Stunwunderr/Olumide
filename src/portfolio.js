@@ -255,33 +255,6 @@ const projectcards = {
       code: "",
       linkcolor: "white",
     },
-    {
-      title: "ActiWeight",
-      img_path: "acti.gif",
-      description:
-        "ActiWeight is an Interactive Visualizer for understanding intuition behind 10 Activation Functions used in Neural Networks.",
-      tags: [
-        {
-          lang: "python",
-          color: "#004782",
-        },
-        {
-          lang: "matplotlib",
-          color: "#c47206",
-        },
-        {
-          lang: "Streamlit",
-          color: "#ff4b4b",
-        },
-        {
-          lang: "Heroku",
-          color: "#3c0095",
-        },
-      ],
-      link: "https://www.youtube.com/watch?v=2vk9lQuX_1Q",
-      code: "https://github.com/rohankokkula/Actiweight",
-      linkcolor: "white",
-    },
   ],
 };
 
@@ -469,6 +442,15 @@ const certifications = {
       certificate_link:
         "https://drive.google.com/file/d/1CgZWVv0wOXuIavY0dZ7RXdhmYnCsbpqL/view?usp=drive_link",
       alt_name: "CISCO",
+      color_code: "#000000",
+    },
+    {
+      title: "High Dimensional Data Analytics",
+      subtitle: "Havard University Powered By Edx",
+      logo_path: "cisco.png",
+      certificate_link:
+        "",
+      alt_name: "Havard University",
       color_code: "#000000",
     },
     {
