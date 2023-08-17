@@ -190,7 +190,7 @@ const projectcards = {
         "The goal is to answer the right questions that will help the company to make the right decisions.",
       tags: [      
         {
-          lang: "python",
+          lang: "Excel",
           color: "#004782",
         },
         {
@@ -203,33 +203,21 @@ const projectcards = {
       linkcolor: "white",
     },
     {
-      title: "NeuralViz",
-      img_path: "neural.gif",
+      title: "Nothwind Traders Analysis",
+      img_path: "traders.gif",
       description:
         "A webapp to visualize Neural Networks based on no. of layers and neurons, calculate Loss and understand math behind Back Propagation algo.",
-      tags: [
+      tags: [        
         {
-          lang: "python",
-          color: "#004782",
-        },
-        {
-          lang: "numpy",
+          lang: "SQL",
           color: "#8700b0",
         },
         {
-          lang: "matplotlib",
+          lang: "PowerBi",
           color: "#c47206",
         },
-        {
-          lang: "Streamlit",
-          color: "#ff4b4b",
-        },
-        {
-          lang: "Heroku",
-          color: "#3c0095",
-        },
       ],
-      link: "https://neuralviz.herokuapp.com/",
+      link: "https://medium.com/@omobukolaolumide/northwind-traders-99a5243da9a9",
       code: "https://github.com/rohankokkula/neuralviz",
       linkcolor: "white",
     },
